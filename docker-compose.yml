@@ -2,5 +2,5 @@ services:
   nest-app:
     image: nest-app:latest
     ports:
-      - "5000:5000"
+      - "8000:8000"
     restart: always
